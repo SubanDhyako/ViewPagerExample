@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">LayoutPractice</string>
+    <string-array name="names">
+        <item>Ram</item>
+        <item>Shyam</item>
+        <item>Hari</item>
+        <item>Krishna</item>
+        <item>Gopal</item>
+        <item>Abcd</item>
+        <item>Kanti</item>
+        <item>Kumari</item>
+        <item>Sita</item>
+        <item>Gita</item>
+    </string-array>
+    <string-array name="address">
+        <item>Bhaktapur</item>
+        <item>Kathmandu</item>
+        <item>Lalitpur</item>
+        <item>Kalimati</item>
+        <item>Thimi</item>
+        <item>Koteshor</item>
+        <item>Baneshor</item>
+        <item>Pokhara</item>
+        <item>Dharan</item>
+        <item>Balkhu</item>
+    </string-array>
+    <string-array name="phone">
+        <item>9849884646</item>
+        <item>9842222222</item>
+        <item>9841111133</item>
+        <item>9841111144</item>
+        <item>9841111145</item>
+        <item>9841111166</item>
+        <item>9841111177</item>
+        <item>9841111177</item>
+        <item>9841111188</item>
+        <item>9841111188</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
